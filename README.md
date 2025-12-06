@@ -1,6 +1,8 @@
 # Submit to Google Search API
 
-A simple Node.js utility to programmatically submit URLs to the Google Search Console using the [Google Indexing API](https://developers.google.com/search/apis/indexing-api/v3/quickstart). This is useful for getting new or updated pages crawled immediately.
+![Project Banner](./banner.png)
+
+A simple Node.js command line utility to programmatically submit URLs to the Google Search Console using the [Google Indexing API](https://developers.google.com/search/apis/indexing-api/v3/quickstart). This is useful for getting new or updated pages crawled immediately.
 
 ## Features
 
