@@ -1,0 +1,6 @@
+node_modules/
+service_account.json
+*.log
+.env
+urls.txt
+GEMINI.md

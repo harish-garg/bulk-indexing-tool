@@ -1,0 +1,22 @@
+{
+  "name": "submit-to-search-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google-indexing-api",
+    "seo",
+    "google-search-console",
+    "indexing",
+    "automation",
+    "nodejs"
+  ],
+  "author": "Haris",
+  "license": "ISC",
+  "description": "A simple Node.js utility to programmatically submit URLs to the Google Search Console using the Google Indexing API.",
+  "dependencies": {
+    "googleapis": "^167.0.0"
+  }
+}
